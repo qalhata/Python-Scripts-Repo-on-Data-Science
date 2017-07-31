@@ -17,15 +17,21 @@
 
 
 # Well, these are the results of actual exercises solved on my journey on www.datacamp.com. You will need to know how to make them # work for your specific use case - ASSUMING that you know what you are doing-
-# And if you really want to understand the underlying methods - you'll have to just take the courses on there.. I can't help with
-# that, ut I can surely try to explain a concept based on my understanding and possily implementation
-# None of the data sets are available here and the scripts work correctly in the online work space on datacamp.
-
-# These scripts have proven useful for other prohects I am working on which will be shared at the appropriate time, but for posterity, this page has been created.
+# And if you really want to understand the underlying methods - you'll have to just take the courses on there.
+# I can't help with that, but I can surely try to explain a concept based on my understanding and possily implementation
 
 
-# You may find some functions or pieces of my code elsewhere on the web. I do not have any commercial programming experience, and
-# just like everyone else, I tend to look up how to do a specific function and write it.
+# Please note that, NONE of the data sets are available here and the scripts work correctly in the online work space on datacamp.
+
+# You will however find datasets online if you google them - there's wuite a few out there
+
+# These scripts have proven useful  in their adaptability for other projects I am working on which will be shared at the
+# appropriate time, but for posterity, this page has been created.
+
+
+# You may find some functions or pieces of my code elsewhere on the web. I do not have any commercial programming experience,
+# and just like everyone else, I tend to look up how to do a specific function and borrow that.
+
 # However once in a while, I’ll find something that’s written extremely well (such as on StackOverflow or other blogs), and
 # I think "there's no use reinventing the wheel.
 # I’ll attempt to credit anything of the sorts as I post them, and apologies if anyone is missed - please let me know and I will rectify asap
