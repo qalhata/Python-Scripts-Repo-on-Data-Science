@@ -5,8 +5,8 @@ Created on Fri Jun 16 16:05:22 2017
 @author: Shabaka
 """
 
-# Same as before, with a kivy-based UI
-
+#Cant quite remember where I got this from but I found it very iseful indeed.
+#Please let me know if you find the source and I'll link it up.
 '''
 Bluetooth/Pyjnius example
 =========================
