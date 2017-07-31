@@ -23,14 +23,14 @@
 
 # Please note that, NONE of the data sets are available here and the scripts work correctly in the online work space on datacamp.
 
-# You will however find datasets online if you google them - there's wuite a few out there
+# You will however find datasets online if you google them - there's quite a few out there
 
 # These scripts have proven useful  in their adaptability for other projects I am working on which will be shared at the
 # appropriate time, but for posterity, this page has been created.
 
 
-# You may find some functions or pieces of my code elsewhere on the web. I do not have any commercial programming experience,
-# and just like everyone else, I tend to look up how to do a specific function and borrow that.
+# You may find some functions or pieces of these/my code(s) elsewhere on the web. I do not have any commercial programming
+# experience, and just like everyone else, I tend to look up how to do a specific function and borrow that.
 
 # However once in a while, I’ll find something that’s written extremely well (such as on StackOverflow or other blogs), and
 # I think "there's no use reinventing the wheel.
