@@ -8,14 +8,14 @@ Script titles are descriptive in keeping with the verbose nature of the python l
 A few important caveats on this Repo: 
 As borrowed and adapted from https://www.reddit.com/r/networking/comments/64rnbg/update_looking_to_share_my_python_scripts_with/
 
-All my scripts were written on eithera Linux/Windows OSs.., using Anaconda IDE, gedit and sometimes recently, Geany. Most of these are written in
+All my scripts were written on either Linux/Windows OSs.., using Anaconda IDE, gedit and sometimes recently, Geany. Most of these are written in
 Python3. (Some are in Python27 - Linux gedit in this case) and I will endeavour to specify these differences.
 They have all been written for my specific environments as above and for the Data Science domain.
 I welcome feedback on how they work for people and if they find them useful.
 The Anaconda IDE gives quite a lot of support for debugging and I endeavour to do as much as I can.
 However they are definitely not perfect by any means.
 
-These are the results of actual exercises solved on the Data Scientist Track www.datacamp.com. So it's all good code
+These are abstractions of results to actual exercises solved on the Data Scientist Track www.datacamp.com. So it's all good code
 
 As far as using these scripts, you will need to know how to make them work for your specific use case - ASSUMING that you know what you are doing-
 And if you really want to understand the underlying methods -the courses on datacamp are as good as any other out there.
