@@ -5,6 +5,9 @@ Created on Mon Mar 20 19:02:21 2017
 @author: Shabaka
 """
 
+# the following analysis loks at an example comparing impact force of frogs - interesting :-)
+
+
 # ########### EDA BEFORE HYPOTHESIS TESTING ### #
 # Make bee swarm plot
 _ = sns.swarmplot(x='ID', y='impact_force', data=df)
