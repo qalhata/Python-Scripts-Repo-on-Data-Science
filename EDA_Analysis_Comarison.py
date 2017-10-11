@@ -5,8 +5,10 @@ Created on Sun Mar 12 17:12:24 2017
 @author: Shabaka
 """
 
-# ########## EDS Analysis ######### #
+# ########## EDA Analysis ######### #
 
+# Once the dataframe has been created and you can identify the relevant columns of interest
+# this example considers the relationship between illiteracy and fertility as per datacamp course example
 # Plot the illiteracy rate versus fertility
 _ = plt.plot(illiteracy, fertility, marker='.', linestyle='none')
 
@@ -60,5 +62,5 @@ plt.ylabel('sum of square of residuals')
 plt.show()
 
 # Notice that the minimum on the plot, that is the value of the slope that
-# gives the minimum sum of the square of the residuals, is the same value you
+# gives the minimum sum of the square of the residuals, this is the same value
 # got when performing the regression.
