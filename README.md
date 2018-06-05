@@ -13,8 +13,6 @@ They have all been written for my specific environments as above and for the Dat
 I welcome feedback on how they work for people and if they find them useful.
 The Anaconda IDE gives quite a lot of support for debugging and I endeavour to do as much as I can.
 
-These are abstractions of results to actual exercises solved on the Data Scientist Track www.datacamp.com. So it's all good code
-
 As far as using these scripts, you will need to know how to make them work for your specific use case - ASSUMING that you know what you are doing-
 And if you really want to understand the underlying methods -the courses on datacamp are as good as any other out there.
 If necessary, I can surely try to explain a concept based on my understanding and possibly some implementation
