@@ -1,6 +1,6 @@
 # Python Scripts Repo on Data Science
 
-# Disclaimer:
+
 Although the release of these scripts may be viable for live production schemas, this is not intentional. My intention is to inspire others and perhaps help others with a good starting point for building certain solutions in the data science domain.
 
 Script titles are descriptive in keeping with the verbose nature of the python language (a Xteristic that I absolutely love)
