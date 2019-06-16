@@ -13,10 +13,10 @@ import matplotlib.pyplot as plt
 
 
 # Read the file into a DataFrame: df
-# df = pd.read_csv('dob_job_application_filings_subset.csv')
+# df = pd.read_csv('your_file.csv') . This might also mean filepath.
 
 df = pd.read_csv('fixations.csv')
-df2 = pd.read_csv('aerodata.csv')
+df2 = pd.read_csv('flightdata.csv')
 
 # Print the head of df
 print(df.head())
