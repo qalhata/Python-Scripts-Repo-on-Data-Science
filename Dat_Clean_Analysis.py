@@ -55,19 +55,22 @@ print(df2.info())
 
 
 # '''''''' Frequency counts for Categorical Data
+# note that dataframe titles here are actually for
+# continuous data. These are simply placeholders.
 
-# Print the value counts for 'Borough'
+# Print the value counts for 'your category - i.e.column titles''
 print(df['duration'].value_counts(dropna=False))
 
 print(df['duration'].shape)
 
-# Print the value_counts for 'State'
+# Print the value_counts for 'next_category'
 print(df['confidence'].value_counts(dropna=False))
 
 print(df['confidence'].shape)
 
-# Print the value counts for 'Site Fill'
+# Print the value counts for 'and_another'
 print(df['avg_pupil_size'].value_counts(dropna=False))
+
 
 # ''''''''''' Single Variable Histogram plot ''''''''#
 
@@ -79,9 +82,12 @@ plt.show()
 
 # ''''' Multi Variable Box Plot Visualisation '''''''#
 
-# Import necessary modules
+# Import necessary modules (see top of script)
+# doesn't necessarily have to be at the top of the script
+# but Spyder likes it this way and it looks
+# good too. 
 
-# Create the boxplot
+# you want to create the boxplot?
 df.boxplot(column='duration', by='avg_pupil_size', rot=90)
 
 # Display the plot
@@ -89,9 +95,9 @@ plt.show()
 
 # ''''''''''' Multiple variable scatter plot visualisation''''#
 
-# Import necessary modules
-# import pandas as pd
-# import matplotlib.pyplot as plt
+# Import necessary modules -moved to top
+# import pandas as pd - at top
+# import matplotlib.pyplot as plt - at top
 
 # Create and display the first scatter plot
 df.plot(kind='scatter', x='initial_cost', y='total_est_fee', rot=70)
