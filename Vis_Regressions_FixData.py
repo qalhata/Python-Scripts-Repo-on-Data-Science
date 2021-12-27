@@ -19,7 +19,8 @@ fixdat = pd.read_csv('C:\\Users\\Shabaka\\ShabakaCodes\\fixations.csv',
 fix_chunk = pd.read_csv('C:\\Users\\Shabaka\\ShabakaCodes\\fixations.csv',
                         chunksize=50)
 
-# Plot a linear regression between 'weight' and 'hp'
+# Test any number of variables against each other
+# Plot a linear regression between 'duration' and 'confidence'
 sns.lmplot(x='duration', y='confidence', data=fixdat)
 
 # Display the plot
@@ -27,11 +28,7 @@ plt.show()
 
 # '''''''' Plotting residuals of a regression ''''''#
 
-# Import plotting modules
-# import matplotlib.pyplot as plt
-# import seaborn as sns
-
-# Generate a green residual plot of the regression between 'hp' and 'mpg'
+# Generate a green residual plot of the regression between 'dur' and 'conf'
 sns.residplot(x='duration', y='confidence', data=fixdat, color='green')
 
 # Display the plot
@@ -166,15 +163,15 @@ plt.show()
 # ''''''''''' Correlation Viz with a Heat Map - Covariance Matrix)
 
 # Print the covariance matrix
-# print(cov_matrix)
+print(cov_matrix)
 
 # Visualize the covariance matrix using a heatmap
-# sns.heatmap(cov_matrix)
+sns.heatmap(cov_matrix)
 
 # Display the heatmap
-# plt.show()
+plt.show()
 
-# _ = plt.plot(fixdat)
-# _ = plt.legend(loc='upper right')
-# _ = plt.show()
+_ = plt.plot(fixdat)
+_ = plt.legend(loc='upper right')
+_ = plt.show()
 
